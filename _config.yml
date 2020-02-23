@@ -36,6 +36,9 @@ host: 0.0.0.0
 port: 4400
 livereload: true
 
+source: src
+destination: public
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

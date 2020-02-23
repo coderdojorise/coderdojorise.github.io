@@ -1,2 +1,1 @@
-# coderdojorise.github.io
-Test
+# CoderDojo RISE
