@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the official website for CoderDojo RISE.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: coderdojorise
+twitter_username: CDShoredtich
 github_username:  coderdojorise
 
 # Build settings
@@ -58,3 +58,5 @@ destination: public
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude: [vendor]
