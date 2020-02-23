@@ -36,7 +36,6 @@ host: 0.0.0.0
 port: 4400
 livereload: true
 
-source: src
 destination: public
 
 # Exclude from processing.
