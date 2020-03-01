@@ -946,9 +946,6 @@ div.supporter-contact ul.social-links li a:active {
 ////////////////////
 // EVENTS TABLE ///
 //////////////////
-div.events-table-element table .col-minidate {
-	display: none;
-}
 
 //////////////////////////
 // NEWSLETTER SIGN UP ///
@@ -1222,9 +1219,6 @@ div.newsletter-form-container div.response-success h3 {
 	div.events-table-element table .col-date,
 	div.events-table-element table .col-time {
 		display: none;
-	}
-	div.events-table-element table .col-minidate {
-		display: table-cell;
 	}
 	div.resource a.resource-overlay h2.resource-title {
 		margin-top: 40px;
