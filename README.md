@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/coderdojorise/coderdojorise.github.io.svg?branch=master)](https://travis-ci.org/coderdojorise/coderdojorise.github.io)
 
-## TODO
+## Checklist
 
-The website will slowly be migrated to Jekyll, there are a few things that have to be produced in order to achieve this.
+TODO: Email forwarding for hi@coderdojorise.com and dev@coderdojorise.com
+TODO: Set-up way to sign-up for email newsletters from Mailchimp.
+TODO: Fix the breadcrumbs element for each page.

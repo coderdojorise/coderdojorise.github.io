@@ -1,27 +1,33 @@
-logo: /assets/images/logo_150px.png
+logo: assets/images/logo_150px.png
 
 links:
 
 - title: About Us
   tooltip: Learn more about the team behind CoderDojo RISE.
   url: /about-us
+  css: about-us
 
 - title: Attend A Dojo
   tooltip: Check our next events.
   url: /attend-a-dojo
+  css: attend
 
 - title: Volunteer
   tooltip: Come volunteer at CoderDojo RISE in London.
   url: /volunteer
+  css: volunteer
 
 - title: Resources
   tooltip: Learn to code using CoderDojo RISE's resources for free!
   url: /resources
+  css: resources
 
 - title: Supporters
   tooltip: Find out more about our amazing supporters.
   url: /supporters
+  css: supporters
 
 - title: Community
   tooltip: Come join our awesome community!
   url: /community
+  css: community
