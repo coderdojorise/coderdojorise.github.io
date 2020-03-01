@@ -1,0 +1,32 @@
+{% assign breadcrumbs = page.breadcrumbs | split: ";" %}
+
+{%- comment -%}
+
+The breadcrumbs element is generated using the Front Matter with a simple syntax.
+If the breadcrumbs front matter variable is not provided then no breadcrumbs will be generated.
+
+Syntax rules:
+- Separate each breadcrumb using a semi-colon (;)
+- Separate each breadcrumb's attributes using a colon (:)
+
+Attributes:
+- 0: Crumb Title
+- 1: Crumb URL (relative path)
+- 2: Crumb CSS classes (leave empty for no classes)
+
+Example: "Title A:/url-a:;Title B:/url-b:active"
+
+{%- endcomment -%}
+
+{% if page.breadcrumbs %}
+<div class="container breadcrumbs-element">
+    <ol class="breadcrumb">
+        {% for breadcrumb in breadcrumbs %}
+        {% assign crumb = breadcrumb | split: ":" %}
+        <li class="{{ crumb[2] }}">
+            <a href="{{ crumb[1] | relative_url }}">{{ crumb[0] }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
+{% endif %}
