@@ -18,15 +18,15 @@ Example: "Title A:/url-a:;Title B:/url-b:active"
 
 {%- endcomment -%}
 
-{% if page.breadcrumbs %}
+{%- if page.breadcrumbs -%}
 <div class="container breadcrumbs-element">
     <ol class="breadcrumb">
         {% for breadcrumb in breadcrumbs %}
-        {% assign crumb = breadcrumb | split: ":" %}
+        {%- assign crumb = breadcrumb | split: ":" -%}
         <li class="{{ crumb[2] }}">
             <a href="{{ crumb[1] | relative_url }}">{{ crumb[0] }}</a>
         </li>
         {% endfor %}
     </ol>
 </div>
-{% endif %}
+{%- endif -%}
