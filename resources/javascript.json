@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "title": "Hello World",
+            "description": "An inroduction into JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/hello_world.pdf"
+        },
+        {
+            "title": "Variables",
+            "description": "Learn about variables in JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/variables.pdf"
+        },
+        {
+            "title": "Conditionals",
+            "description": "If and else in JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/conditionals.pdf"
+        },
+        {
+            "title": "Rock Paper Scissors",
+            "description": "Combine all we've learnt to make a cool Rock Paper Scissors game in JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/roshambo.pdf"
+        },
+        {
+            "title": "Arrays",
+            "description": "Learn about Arrays in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/arrays.pdf"
+        },
+        {
+            "title": "Functions",
+            "description": "Functions in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/functions.pdf"
+        },
+        {
+            "title": "While",
+            "description": "While loops in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/while.pdf"
+        },
+        {
+            "title": "For Loops",
+            "description": "For loops in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/for_loops.pdf"
+        },
+        {
+            "title": "Christmas Tree",
+            "description": "A christmas themed tutorial",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "/resources/files/javascript/xmastree.pdf"
+        }
+    ]
+}

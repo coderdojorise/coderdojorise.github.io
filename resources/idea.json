@@ -1,0 +1,260 @@
+{
+    "results": [
+        {
+            "title": "CoderDojo Randomness",
+            "description": "Everything from game design to music streaming can be enhanced by using the secret art of randomness. Find out how to trigger great experiences using number generators!",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/random-coding"
+        },
+        {
+            "title": "User Experience",
+            "description": "Fantastic websites and apps are designed by thinking carefully about the people who will use them. Find out how the best web developers do this so you can put their techniques into practice yourself.",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/ux"
+        },
+        {
+            "title": "User Interfaces",
+            "description": "All of us use apps and websites every day, some of which we love, some of which just aren't very good. Learn how to design really brilliant online experiences which look great.",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/ui"
+        },
+        {
+            "title": "Internet of Things",
+            "description": "The Internet of Things is a way to connect devices and objects up using the internet which means you can control things remotely, save energy and money, and make amazing stuff happen. Learn more here!",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/iot"
+        },
+        {
+            "title": "Digital Research",
+            "description": "Fast track your way to being a digital ninja by using these tips and tricks for finding stuff out online. You'll learn how to take short-cuts in Google which save time and effort – AND help you make sure your research is accurate.",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/research"
+        },
+        {
+            "title": "Digital Portfolios",
+            "description": "Creating a digital portfolio is one of the main ways people can showcase their achievements to potential employers. Use this masterclass to get yours to the top of the pile.",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/digitalportfolios"
+        },
+        {
+            "title": "Colours",
+            "description": "Anyone who wants to do anything in digital needs to do this badge. Colours might seem a simple topic but they affect everything we do - colours speak all languages. Using them smartly will put you in a different league.",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/colour"
+        },
+        {
+            "title": "SysAdmin",
+            "description": "Fast becoming one of the key roles in computing, systems administrators work forensically to troubleshoot webpage errors and get websites up and running.",
+            "level": 0,
+            "type": "Worker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/sys-admin"
+        },
+        {
+            "title": "Game Designer",
+            "description": "The gaming industry makes more money than music and movies combined. This 'day in the life of a gamer' helps you earn your gaming stripes by showing how game mechanics influence gameplay. And get to design your own game!",
+            "level": 0,
+            "type": "Gamer Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/game-designer"
+        },
+        {
+            "title": "Python Quiz",
+            "description": "CoderDojo is famous for helping thousands of young people learn how to code. In this fantastic module, you can learn how to build a quiz in Python (a programming language) and at the same time understand some of the basics of coding.",
+            "level": 0,
+            "type": "Gamer Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/python"
+        },
+        {
+            "title": "Intro to Gaming",
+            "description": "The gaming industry generates more revenue than movies and music combined. Ian Livingstone is one of the world's most famous gaming entrepreneurs. Here, he offers an introduction to the world of gaming with some insights on how to get started making your own games.",
+            "level": 0,
+            "type": "Gamer Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/intro-to-gaming"
+        },
+        {
+            "title": "E-Safety & Online Etiquette",
+            "description": "Get cyber savvy to help you and your friends stay safe and avoid being a victim of fraud and theft online. Everyone who uses the internet needs to do this easy but important intro to e-safety.",
+            "level": 0,
+            "type": "Citzen Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/esafety"
+        },
+        {
+            "title": "What is the Cloud?",
+            "description": "Cloud computing is a way to store data in cyber space so it doesn't take up real space at home or at work, and avoids using up memory on your phone or computer. Find out why it matters and how you can use it.",
+            "level": 0,
+            "type": "Citzen Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/cloud"
+        },
+        {
+            "title": "Brain Hack",
+            "description": "Imagine if there was a quick and easy module you could do which would make you better at all the rest of your studies. Well this might just be it! Find out how your brain works and get ready for some great results.",
+            "level": 0,
+            "type": "Citzen Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/brain-hack"
+        },
+        {
+            "title": "Cyber Security",
+            "description": "Don't let the simple design of this badge put you off – make like Alan Turing cracking the Enigma code and find out how to do things James Bond and Jason Bourne would be proud of.",
+            "level": 0,
+            "type": "Citzen Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/wirehive"
+        },
+        {
+            "title": "Junior Web Designer",
+            "description": "This 'day in the life of a web designer' introduces you to the role of a web developer using a 'bootstrap framework' - a free resource which provides lots of templates for making fantastic websites.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/web-developer"
+        },
+        {
+            "title": "Graphic Design",
+            "description": "Eye-catching visuals can make or break a project. Get the inside track on graphic design and find out how to make words and pictures work across any media.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/graphic-design"
+        },
+        {
+            "title": "Love Meter",
+            "description": "Develop your love of coding by learning how to programme a \"love meter\". You don't need to have a BBC micro:bit to do this, just a good sense of humour.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/love-meter"
+        },
+        {
+            "title": "Automation",
+            "description": "Life hacks are smart ways to use tech and make everyday life easier. Find out more about algorithms, variables and the Internet of Things to start making your own life hacks.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/automation"
+        },
+        {
+            "title": "Animation",
+            "description": "Fancy working in the gaming or video industry? Start here by getting to grips with animation tips and tricks. See if you can make a superhero animate!",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/animation"
+        },
+        {
+            "title": "Sorting Hat",
+            "description": "In homage to Harry Potter and the Cursed Child, we bring you a game you can code to magic up a Sorting Hat. With or without a BBC micro:bit, learn how to program and 'let the Sorting now begin'.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/sorting-hat"
+        },
+        {
+            "title": "Snowflake",
+            "description": "Take your first steps into coding animations with this fun and easy snowflake-maker. You don't need to have a BBC micro:bit to do this introduction to program simple pictures.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/snowflake"
+        },
+        {
+            "title": "Coding Solutions",
+            "description": "Learning how to troubleshoot effectively is one of the key skills web developers need to acquire. This badge helps you learn how to analyse and fix errors in code!",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/coding_solutions"
+        },
+        {
+            "title": "jQuery Coding",
+            "description": "People who have done this say it's like magic. We can't promise magic but we can promise you an exciting, experimental sandpit so you can learn how to make animating images. The science bit: you'll learn how to combine coding in jQuery (a clever interface library) with HTML (a markup language) and CSS (which makes web pages look great).",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/jquery"
+        },
+        {
+            "title": "Video Editing",
+            "description": "Making your own films can be a lot of fun – and tech these days means it's easy to create video content. Learn the craft of editing to hone your video storytelling skills like YouTubers do.",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/video-editing"
+        },
+        {
+            "title": "Virtual Reality",
+            "description": "The magic of immersion – Virtual Reality can transport you into any scenario. This introduction opens up the amazing world of VR, how you can use it and how you can make it!",
+            "level": 0,
+            "type": "Maker Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/virtual_reality"
+        },
+        {
+            "title": "Growth Hacking",
+            "description": "Growth hacking is finding clever ways to get people talking about your business. Think of it like marketing for the digital age – this badge is a vital introduction for any budding entrepreneurs.",
+            "level": 0,
+            "type": "Entrepreneur Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/growth-hacking"
+        },
+        {
+            "title": "Jargon Buster",
+            "description": "One of the UK's most brilliant business leaders is Dragon Peter Jones. Anyone interested in business and enterprise needs to get to grips with the jargon people use and learn how to weigh up risks. Try this jargon-buster and business guide.",
+            "level": 0,
+            "type": "Entrepreneur Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/jargon"
+        },
+        {
+            "title": "Researcher",
+            "description": "Researchers find out facts and figures and make great investigators. This 'day in the life of a researcher' helps you uncover details others might miss.",
+            "level": 0,
+            "type": "Entrepreneur Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/researcher"
+        },
+        {
+            "title": "Innovation",
+            "description": "Entrepreneurs often try to come up with something new to stay ahead of the competition. Learn how to innovate effectively with a range of tools used by some of the most successful teams in business.",
+            "level": 0,
+            "type": "Entrepreneur Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/innovation"
+        },
+        {
+            "title": "CRM",
+            "description": "It's no good having a wonderful product if you can't tell anyone about it, help people if they get stuck or look after the needs of your clients. Learn how 'customer relationship management' techniques affect your ability to sell things and get some tips for providing excellent service.",
+            "level": 0,
+            "type": "Entrepreneur Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/crm"
+        },
+        {
+            "title": "Social Selling",
+            "description": "Social selling is all about learning how to change the way we sell by using the power of digital connectivity. Find out more about the people who use your products and services - and learn how to personalise your relationships with them.",
+            "level": 0,
+            "type": "Entrepreneur Badge",
+            "verified": "true",
+            "link": "https://idea.org.uk/badge/social-selling"
+        }
+    ]
+}

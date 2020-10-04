@@ -6,7 +6,6 @@
 
 ### Website
 
-* TODO: Resources pages
 * TODO: Supporters pages
 * TODO: Add Google Analytics tag
 

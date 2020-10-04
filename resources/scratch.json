@@ -1,0 +1,52 @@
+{
+    "results": [
+        {
+            "title": "Deep Sea Sushi",
+            "description": "Make a fun game in your first Scratch program!",
+            "level": 0,
+            "type": "Project",
+            "verified": true,
+            "link": "https://projects.raspberrypi.org/en/projects/cd-beginner-scratch-sushi"
+        },
+        {
+            "title": "Pattern Pen",
+            "description": "Make a cool pattern generator!",
+            "level": 0,
+            "type": "Project",
+            "verified": true,
+            "link": "https://projects.raspberrypi.org/en/projects/cd-intermediate-scratch-sushi"
+        },
+        {
+            "title": "Falling Stars",
+            "description": "Make a platform-style game and add your own levels, powers, and characters.",
+            "level": 1,
+            "type": "Project",
+            "verified": true,
+            "link": "https://projects.raspberrypi.org/en/projects/cd-advanced-scratch-sushi"
+        },
+        {
+            "title": "Mosquito Patrol",
+            "description": "Make your first Scratch program!",
+            "level": 0,
+            "type": "Project",
+            "verified": true,
+            "link": "https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-1"
+        },
+        {
+            "title": "Water Use Calculator",
+            "description": "Make a water usage calculator, with animated charts.",
+            "level": 1,
+            "type": "Project",
+            "verified": true,
+            "link": "https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-2"
+        },
+        {
+            "title": "Fart Catcher",
+            "description": "Make a platform-style game and add your own levels, powers, and characters.",
+            "level": 1,
+            "type": "Project",
+            "verified": true,
+            "link": "https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-3"
+        }
+    ]
+}
