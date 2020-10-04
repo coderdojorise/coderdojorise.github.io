@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "title": "Strings",
+            "description": "A very basic approach into Python.",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/challenge/index.php?id=python_2&task=0"
+        },
+        {
+            "title": "If and Else",
+            "description": "How can we get the computer to make a decision?",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/challenge/index.php?id=python_3&task=0"
+        },
+        {
+            "title": "Loops",
+            "description": "Let's get the computer to do something over and over and over and over and over again",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/res/files/python/tutorials/3-loops.pdf"
+        },
+        {
+            "title": "Functions",
+            "description": "Here we will organise our code into easy and manageable chunks.",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/res/files/python/tutorials/4-functions.pdf"
+        },
+        {
+            "title": "Arrays",
+            "description": "How can we organise large amounts of data to be easily accessible?",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/res/files/python/tutorials/5-arrays.pdf"
+        },
+        {
+            "title": "Beginner Turtle",
+            "description": "Let's play with Turtle!",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/res/files/python/tutorials/6-basic-turtle.pdf"
+        },
+        {
+            "title": "Classes",
+            "description": "Let's make a Dog!",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/res/files/python/tutorials/7-classes.pdf"
+        },
+        {
+            "title": "Cryptography",
+            "description": "Let's learn about Cryptography!",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/challenge/index.php?id=python_encryption&task=0"
+        },
+        {
+            "title": "Pygame",
+            "description": "Learn how to code with Pygame Get Pygame before starting!!",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/res/files/python/tutorials/pygame/car-game-pygame.zip"
+        },
+        {
+            "title": "Getting Started",
+            "description": "Get Started with Python",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://res.coderdojorise.com/challenge/index.php?id=python_1&task=0"
+        }
+    ]
+}

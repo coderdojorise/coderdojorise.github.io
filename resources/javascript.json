@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "title": "Hello World",
+            "description": "An inroduction into JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/hello_world.pdf"
+        },
+        {
+            "title": "Variables",
+            "description": "Learn about variables in JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/variables.pdf"
+        },
+        {
+            "title": "Conditionals",
+            "description": "If and else in JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/conditionals.pdf"
+        },
+        {
+            "title": "Rock Paper Scissors",
+            "description": "Combine all we've learnt to make a cool Rock Paper Scissors game in JavaScript",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/roshambo.pdf"
+        },
+        {
+            "title": "Arrays",
+            "description": "Learn about Arrays in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/arrays.pdf"
+        },
+        {
+            "title": "Functions",
+            "description": "Functions in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/functions.pdf"
+        },
+        {
+            "title": "While",
+            "description": "While loops in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/while.pdf"
+        },
+        {
+            "title": "For Loops",
+            "description": "For loops in JavaScript",
+            "level": 1,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/for_loops.pdf"
+        },
+        {
+            "title": "Christmas Tree",
+            "description": "A christmas themed tutorial",
+            "level": 0,
+            "type": "Sushi Card",
+            "verified": true,
+            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/xmastree.pdf"
+        }
+    ]
+}
