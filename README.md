@@ -6,10 +6,8 @@
 
 ### Website
 
-* TODO: Volunteer pages
 * TODO: Resources pages
 * TODO: Supporters pages
-* TODO: Community pages
 * TODO: Add Google Analytics tag
 
 ### Systems
