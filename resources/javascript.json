@@ -6,7 +6,7 @@
             "level": 0,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/hello_world.pdf"
+            "link": "/resources/files/javascript/hello_world.pdf"
         },
         {
             "title": "Variables",
@@ -14,7 +14,7 @@
             "level": 0,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/variables.pdf"
+            "link": "/resources/files/javascript/variables.pdf"
         },
         {
             "title": "Conditionals",
@@ -22,7 +22,7 @@
             "level": 0,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/conditionals.pdf"
+            "link": "/resources/files/javascript/conditionals.pdf"
         },
         {
             "title": "Rock Paper Scissors",
@@ -30,7 +30,7 @@
             "level": 0,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/roshambo.pdf"
+            "link": "/resources/files/javascript/roshambo.pdf"
         },
         {
             "title": "Arrays",
@@ -38,7 +38,7 @@
             "level": 1,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/arrays.pdf"
+            "link": "/resources/files/javascript/arrays.pdf"
         },
         {
             "title": "Functions",
@@ -46,7 +46,7 @@
             "level": 1,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/functions.pdf"
+            "link": "/resources/files/javascript/functions.pdf"
         },
         {
             "title": "While",
@@ -54,7 +54,7 @@
             "level": 1,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/while.pdf"
+            "link": "/resources/files/javascript/while.pdf"
         },
         {
             "title": "For Loops",
@@ -62,7 +62,7 @@
             "level": 1,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/for_loops.pdf"
+            "link": "/resources/files/javascript/for_loops.pdf"
         },
         {
             "title": "Christmas Tree",
@@ -70,7 +70,7 @@
             "level": 0,
             "type": "Sushi Card",
             "verified": true,
-            "link": "https://github.com/coderdojo-london/resources/blob/master/javascript/files/xmastree.pdf"
+            "link": "/resources/files/javascript/xmastree.pdf"
         }
     ]
 }
