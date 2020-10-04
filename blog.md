@@ -1,3 +1,3 @@
 ---
-layout: master
+layout: main
 ---
