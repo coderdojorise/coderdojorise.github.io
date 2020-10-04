@@ -10,6 +10,11 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/paper/bootstrap.min.css" />
         <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}" />
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="{{ 'assets/js/utils.js' | relative_url }}"></script>
+        <script type="text/javascript" src="{{ 'assets/js/scripts.js' | relative_url }}"></script>
     </head>
     <body>
         {% include header.html %}
@@ -17,10 +22,5 @@
         {{ content }}
         {% include footer.html %}
         {% include partials/eu-cookie-message.html %}
-
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="{{ 'assets/js/utils.js' | relative_url }}"></script>
-        <script type="text/javascript" src="{{ 'assets/js/scripts.js' | relative_url }}"></script>
     </body>
 </html>
