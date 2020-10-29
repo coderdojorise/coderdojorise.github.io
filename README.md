@@ -6,7 +6,6 @@
 
 ### Website
 
-* TODO: Supporters pages
 * TODO: Add Google Analytics tag
 
 ### Systems
